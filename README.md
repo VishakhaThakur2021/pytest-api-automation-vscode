@@ -61,6 +61,10 @@ From the root of the folder run following command in terminal
 
 Must watch 😀 
 
+https://github.com/VishakhaThakur2021/pytest-api-automation-vscode/assets/86808541/2e87be70-4563-439d-8fa8-c74cc61a89ab
+
+
+
 ## ➡ HTML Report 🚀🚀
 
 ![HTML Test Report](./screenshot_results/html-image.png)
