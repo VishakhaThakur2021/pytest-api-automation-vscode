@@ -63,7 +63,11 @@ Must watch 😀
 
 
 
-https://github.com/VishakhaThakur2021/pytest-api-automation-vscode/assets/86808541/4ecf073e-2264-4fba-902b-bed93799244b
+
+https://github.com/VishakhaThakur2021/pytest-api-automation-vscode/assets/86808541/6580a1ca-d27c-4345-a3a3-357f119ceebe
+
+
+
 
 
 
