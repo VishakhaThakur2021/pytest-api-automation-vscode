@@ -59,7 +59,7 @@ From the root of the folder run following command in terminal
 2. Go to project location
 3. Enter `pytest --html=report.html`' and enter key 🚀
 
-https://github.com/VishakhaThakur2021/VishakhaThakur2021/assets/86808541/47f91864-6714-42b8-83b4-71221f32445b
+Must watch 😀 
 
 ## ➡ HTML Report 🚀🚀
 
@@ -85,7 +85,11 @@ expected output is not equal to actual output 🤔
 2. Go to project location
 3. Enter `python -m pytest --alluredir allure-results` and then `allure serve allure-results` 🚀 hit enter
 
-https://github.com/VishakhaThakur2021/pytest-api-automation-vscode/assets/86808541/241f12f6-95c1-40c9-b660-272837a5e05a
+Must watch 😀 
+
+https://github.com/VishakhaThakur2021/pytest-api-automation-vscode/assets/86808541/c8c85c71-03ec-4500-bd01-0b536d35d4e3
+
+
 
 
 
