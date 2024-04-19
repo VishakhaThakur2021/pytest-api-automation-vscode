@@ -67,7 +67,7 @@ https://github.com/VishakhaThakur2021/pytest-api-automation-vscode/assets/868085
 
 ## ➡ HTML Report 🚀🚀
 
-![HTML Test Report](./screenshot_results/html-image.png)
+
 
 <img width="956" alt="html-image" src="https://github.com/VishakhaThakur2021/pytest-api-automation-vscode/assets/86808541/623bac8c-1c96-47de-a92e-0fe2f10e70b3">
 
@@ -106,7 +106,7 @@ https://github.com/VishakhaThakur2021/pytest-api-automation-vscode/assets/868085
 <img width="935" alt="allure-image" src="https://github.com/VishakhaThakur2021/pytest-api-automation-vscode/assets/86808541/b841e91a-56c0-4d3d-a7ef-6c4899a03f36">
 
 
-![HTML Test Report](./screenshot_results/allure-image.png)
+
 
 In the above screenshot get_user test is failing here,
 expected output is not equal to actual output 🤔
@@ -128,6 +128,6 @@ expected output is not equal to actual output 🤔
 
 <img width="921" alt="sqlite-image" src="https://github.com/VishakhaThakur2021/pytest-api-automation-vscode/assets/86808541/42e77d6e-4160-4afd-8cfb-6b2fdb019c16">
 
-![HTML Test Report](./screenshot_results/sqlite-image.png)
+
 
 👉 Note : Services runnning on ports number 8081 (docker-compose.yml and nginx_config.conf)
